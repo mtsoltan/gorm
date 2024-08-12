@@ -1,4 +1,4 @@
-module gorm.io/gorm
+module githumb.com/mtsoltan/gorm
 
 go 1.18
 
